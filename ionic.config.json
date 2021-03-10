@@ -1,0 +1,7 @@
+{
+  "name": "ionic-lawtalk-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
